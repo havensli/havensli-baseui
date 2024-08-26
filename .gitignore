@@ -1,0 +1,7 @@
+
+# 忽略目录
+# vuepress .cache .temp dist
+docs/.vuepress/.cache
+docs/.vuepress/.temp
+docs/.vuepress/dist
+node_modules
