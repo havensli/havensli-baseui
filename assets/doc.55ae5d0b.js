@@ -1,4 +1,4 @@
-import{a as n,o as a,c as l,b as e,d as u,w as p,f as r,h as t}from"./index.7eaeeb4f.js";const h={class:"markdown-body"},c=r(`<h1>\u5B89\u88C5\u4F7F\u7528</h1><h2>\u5B89\u88C5</h2><h4>\u63A8\u8350\u4F7F\u7528 <em>npm</em> \u7684\u65B9\u5F0F\u5B89\u88C5,\u4E5F\u53EF\u9009\u7528 <em>cpm</em> \u6216 <em>yarn</em> \u8FDB\u884C\u5B89\u88C5\u3002</h4><pre><code>npm install  havensli-baseui
+import{a as n,o as a,c as l,b as e,d as u,w as p,f as r,h as t}from"./index.f1739ba7.js";const h={class:"markdown-body"},c=r(`<h1>\u5B89\u88C5\u4F7F\u7528</h1><h2>\u5B89\u88C5</h2><h4>\u63A8\u8350\u4F7F\u7528 <em>npm</em> \u7684\u65B9\u5F0F\u5B89\u88C5,\u4E5F\u53EF\u9009\u7528 <em>cpm</em> \u6216 <em>yarn</em> \u8FDB\u884C\u5B89\u88C5\u3002</h4><pre><code>npm install  havensli-baseui
 cnpm install  havensli-baseui --save
 yarn add havensli-baseui
 </code></pre><br><h2>\u4F7F\u7528 havensli-baseui</h2><h4>\u9700\u8981\u6CE8\u610F\u7684\u662F css \u6837\u5F0F\u6587\u4EF6\u9700\u8981\u60A8\u5355\u72EC\u5F15\u5165\u3002</h4><pre><code class="language-javascript">/*js*/
